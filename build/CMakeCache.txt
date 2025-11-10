@@ -527,6 +527,12 @@ pmf_cpu_BINARY_DIR:STATIC=/home/beast/pmf_cpp/build
 //Value Computed by CMake
 pmf_cpu_SOURCE_DIR:STATIC=/home/beast/pmf_cpp
 
+//Value Computed by CMake
+pmf_full_BINARY_DIR:STATIC=/home/beast/pmf_cpp/build
+
+//Value Computed by CMake
+pmf_full_SOURCE_DIR:STATIC=/home/beast/pmf_cpp
+
 
 ########################
 # INTERNAL cache entries
